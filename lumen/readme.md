@@ -1,4 +1,4 @@
-# Choose Yourown Adventure
+# (CYA) Choose Your Own Adventure
 
 We will be creating a game from start to finish over the course of my kata adventures.
 
@@ -27,3 +27,5 @@ The parent nodes for the above story are:
 <li>'Touch it?' 
 <li>'Walk away?' 
 <li>'You survived'
+
+You have been given a test, and can work from the index.php file in the root directory.
